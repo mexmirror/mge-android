@@ -1,4 +1,6 @@
 #MGE Android
+[![PDF Status](https://www.sharelatex.com/github/repos/mexmirror/mge-android/builds/latest/badge.svg)](https://www.sharelatex.com/github/repos/mexmirror/mge-android/builds/latest/output.pdf)
+
 Summary of the Android part of the MGE lecutre at the University Of Applied Science Rapperswil
 
 ## Compiling
